@@ -3,7 +3,7 @@
 <img src="https://flagcdn.com/24x18/es.png" alt="Español" width="18" height="13"> [Español](#es) | <img src="https://flagcdn.com/24x18/gb.png" alt="English" width="18" height="13"> [English](#en)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/sergiorequenatorres)
-[![Rigoberto Studio](https://img.shields.io/badge/Rigoberto%20Studio-181717?style=for-the-badge)](https://rigobertostudio.es/)
+[![Rigoberto Studio](https://img.shields.io/badge/Rigoberto%20Studio-6B21A8?style=for-the-badge)](https://rigobertostudio.es/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sereto56@gmail.com)
 
 ---
